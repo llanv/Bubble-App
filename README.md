@@ -1,7 +1,12 @@
 # Bubble-App
 Bubble is a mobile social app that helps adults build supportive, lasting friendships by joining small, interest-based local groups called Bubbles.
-Users
 
+Bubble: [Project Site](https://my.eng.utah.edu/~u1217992/bubble/)
+
+Figma: [Bubble Flow](https://www.figma.com/board/UWrO0Qoy67NEFKhgTEkD7d/Bubble-Flow?t=QbkksmhnfPJ7lFLY-0) | [Figma Digital Wireframes](https://www.figma.com/design/Ej6ZDxGaSpgsPQlTTejtVR/Bubble-Clean?node-id=0-1&p=f&t=QbkksmhnfPJ7lFLY-0)
+
+## Research and Insights
+### Users
 Newcomer (Maya)
 - Recently moved to a new city for work and doesn't know many people.
 - Tech savviness: high
@@ -17,7 +22,7 @@ Group Owner (David)
 - Wants to keep discussions safe and welcoming without much effort.
 - Needs an easy way to turn online conversations into in-person events.
 
-Research
+### Research
 Researched one-on-one friend-finding apps:
 - Found that one-on-one conversations put pressure on users to keep chats going.
 - Found that matching-style flows can feel like dating apps, which discourages some users.
@@ -30,7 +35,7 @@ Researched group chat and community apps:
 - Got an idea of common patterns for group chats, discussion posts, and member lists.
 - Found that owners need moderation tools to keep larger groups healthy.
 
-Insight
+### Insight
 - Users need a low-pressure way to connect, so Bubble focuses on online group interaction first and in-person meetups second.
 - Some users aren't ready to post or chat right away, so daily icebreakers give them an easy first step.
 - Users need to find relevant groups fast, so Bubbles are suggested by three signals: activity from friends, shared interests, and recently active groups.
@@ -38,7 +43,7 @@ Insight
 - Group owners have different goals, so they can control visibility and membership for each Bubble.
 - Owners need to keep communities safe, so they can remove members and moderate discussions.
 
-Documentation
+### Documentation
 Homepage and discovery
 - Bubbles appear on the homepage so users can start exploring right away.
 Joining and saving Bubbles
